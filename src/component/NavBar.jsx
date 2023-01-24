@@ -1,5 +1,5 @@
 import {Link} from 'react-router-dom';
-import logo from '../assets/Logo.png';
+import logo from 'https://erickdhoz.github.io/ErickDhoz/assets/Logo.png';
 function NavBar() {
     return (
         <div className="sm:w-full  bg-cyan-500 shadow-lg">
