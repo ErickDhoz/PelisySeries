@@ -6,7 +6,7 @@ import play from '../assets/store/play-store.svg'
 import windows from '../assets/store/windows-store.svg'
 function PieDePagina() {
     return (
-        <div className='sm:w-full  bg-slate-700 shadow-lg h-36 fixed bottom-0'>
+        <div className='sm:w-full  bg-slate-700 shadow-lg h-36  bottom-0'>
             <div className="flex w-4/5 items-center p-2 m-auto">
                 <ul className="flex  text-white  text-xs sm:text-sm">
                     <li className="mr-5">
