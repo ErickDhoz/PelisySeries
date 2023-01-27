@@ -5,7 +5,7 @@ function NavBar() {
         <div className="sm:w-full  bg-cyan-500 shadow-lg">
             <div className='flex w-4/5 items-center p-3 m-auto justify-between'>
                 <div className=' flex'>
-                    <img src='https://github.com/ErickDhoz/assets/Logo.png'
+                    <img src='https://erickdhoz.github.io/ErickDhoz/assets/Logo.png'
                         alt="Logo"
                         className='w-11 h-auto'/>
 
